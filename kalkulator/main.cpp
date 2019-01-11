@@ -1,7 +1,7 @@
 #include <iostream>
 #include "mnozenie.h"
-#include  "dzielenie.h"
-#include  "odejmowanie.h"
+#include "dzielenie.h"
+#include "odejmowanie.h"
 #include "dodawanie.h"
 using namespace std;
 

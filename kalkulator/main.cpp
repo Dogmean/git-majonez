@@ -1,16 +1,9 @@
 #include <iostream>
+#include "mnozenie.h"
 #include  "dzielenie.h"
 using namespace std;
 
 int a, b;
-
-int mnozenie(a,b)
-{
-	int result;
-	wynik = a*b;
-	cout<<result;
-}
-
 
 int main()
 {

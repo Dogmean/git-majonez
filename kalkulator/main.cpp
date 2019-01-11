@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "dodawanie.h"
 using namespace std;
 
 int a, b;

@@ -6,9 +6,9 @@ int a, b;
 
 int mnozenie(a,b)
 {
-	int wynik;
+	int result;
 	wynik = a*b;
-	cout<<wynik;
+	cout<<result;
 }
 
 

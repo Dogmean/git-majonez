@@ -4,6 +4,13 @@ using namespace std;
 
 int a, b;
 
+int mnozenie(a,b)
+{
+	int wynik;
+	wynik = a*b;
+	cout<<wynik;
+}
+
 
 int main()
 {

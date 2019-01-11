@@ -1,22 +1,21 @@
 #include <iostream>
+#include "mnozenie.h"
+#include  "dzielenie.h"
+#include  "odejmowanie.h"
 #include "dodawanie.h"
 using namespace std;
 
 int a, b;
 
-int mnozenie(a,b)
-{
-	int result;
-	wynik = a*b;
-	cout<<result;
-}
-
-
 int main()
 {
 	int operacja;
-	cout<<"Podaj liczbe a: ";cin>>a;cout<<endl;
-	cout<<"Podaj liczbe b: ";cin>>b;cout<<endl;
+	cout<<"Podaj liczbe a: ";
+	cin>>a;
+	cout<<endl;
+	cout<<"Podaj liczbe b: ";
+	cin>>b;
+	cout<<endl;
 	cout<<"Co chcesz zrobic?"<<endl;
 	cout<<"Dodac a do b [1]"<<endl<<"Odjac a od b [2]"<<endl<<"Pomnozyc a przez b [3]"<<endl<<"Podzielic a przez b [4]"<<endl;
 	cin>>operacja;

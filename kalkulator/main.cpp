@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include  "dzielenie.h"
 using namespace std;
 
 int a, b;

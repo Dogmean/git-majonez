@@ -2,6 +2,7 @@
 #include "mnozenie.h"
 #include  "dzielenie.h"
 #include  "odejmowanie.h"
+#include "dodawanie.h"
 using namespace std;
 
 int a, b;

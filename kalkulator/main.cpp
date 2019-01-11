@@ -1,6 +1,7 @@
 #include <iostream>
 #include "mnozenie.h"
 #include  "dzielenie.h"
+#include  "odejmowanie.h"
 using namespace std;
 
 int a, b;

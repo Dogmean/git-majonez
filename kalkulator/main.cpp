@@ -26,6 +26,7 @@ int odejmowanie (a,b)
 }
 
 
+
 int main()
 {
 	int operacja;

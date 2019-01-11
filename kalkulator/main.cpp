@@ -11,21 +11,6 @@ int mnozenie(a,b)
 	cout<<result;
 }
 
-int dodawanie (a,b)
-{
-	int result;
-	wynik = a+b;
-	cout<<result;
-}
-
-int odejmowanie (a,b)
-{
-	int result;
-	wynik = a-b;
-	cout<<result;
-}
-
-
 
 int main()
 {

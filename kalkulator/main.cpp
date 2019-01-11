@@ -1,19 +1,10 @@
 #include <iostream>
-
+#include  "dzielenie.h"
 using namespace std;
 
 int a, b;
 
-double d&d(int a, int b) {
-
-	double master;
-	master=a/b;
-	cout<<fixed<<master<<endl;
-
-}
-
-
-int mnozenie(a,b) //VARIABLES NOT DEFINED!!!
+int mnozenie(a,b)
 {
 	int result;
 	wynik = a*b;

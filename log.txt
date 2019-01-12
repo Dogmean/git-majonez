@@ -1,0 +1,297 @@
+commit 31720621b758db41776ca22515144b066ba79b31
+Author: kamiljagodzinski <crixu6@gmail.com>
+Date:   Sat Jan 12 14:55:16 2019 +0000
+
+    commit
+
+commit f2b87e7159cc8839f0211eb5d21ef2eed165b926
+Merge: fade690 471c4d8
+Author: Dogmean <46533971+Dogmean@users.noreply.github.com>
+Date:   Sat Jan 12 15:24:03 2019 +0100
+
+    Merge pull request #6 from Dogmean/rebase-test
+    
+    changed README.md contents
+
+commit fade6901888117a4707bde7cd354f6652696ddba
+Author: Dogmean <gustlik0015@gmail.com>
+Date:   Sat Jan 12 15:17:47 2019 +0100
+
+    trying to clean up my mess
+
+commit e150ca2bb9fb717efda62cb874aa130a4fecac61
+Author: Dogmean <gustlik0015@gmail.com>
+Date:   Sat Jan 12 15:03:25 2019 +0100
+
+    removed unnecesarry files
+
+commit 471c4d88476c32188f602bd5508de588bcc3693e
+Author: Dogmean <gustlik0015@gmail.com>
+Date:   Sat Jan 12 14:59:24 2019 +0100
+
+    changed README.md contents
+
+commit cd3a4aae8105b2a14d1407b70f2e5a2418f2867c
+Author: kamiljagodzinski <crixu6@gmail.com>
+Date:   Fri Jan 11 22:56:06 2019 +0000
+
+    ostatni mohikanin
+
+commit dc0c5f06f7f6871c6e58b0e0cabb91cea508f586
+Author: kamiljagodzinski <crixu6@gmail.com>
+Date:   Fri Jan 11 22:54:01 2019 +0000
+
+    bez spacji
+
+commit 73b1a5419d8cfc9a3f8c31dde29ecfc22b21cd16
+Merge: 719d185 af6410e
+Author: Dogmean <46533971+Dogmean@users.noreply.github.com>
+Date:   Fri Jan 11 23:45:23 2019 +0100
+
+    Merge branch 'dodawanie' into master
+
+commit 719d185959fc70abef614a97261608618d689027
+Author: n0wik <pawel1998no@o2.pl>
+Date:   Fri Jan 11 23:27:34 2019 +0100
+
+    zeby ladnie wygladalo
+
+commit 9a5d8e56bb1f674fd11c6523671a0fa7bbf37305
+Author: n0wik <pawel1998no@o2.pl>
+Date:   Fri Jan 11 23:26:08 2019 +0100
+
+    odejmowanie naglowek
+
+commit 3ce87f7756fa48c42e89c7e9e60536cb5d0464cc
+Author: n0wik <pawel1998no@o2.pl>
+Date:   Fri Jan 11 23:25:20 2019 +0100
+
+    odejmowanko
+
+commit af6410e1533c8e1970033a5d18e7a3f966d6eb2a
+Author: kamiljagodzinski <crixu6@gmail.com>
+Date:   Fri Jan 11 22:20:01 2019 +0000
+
+    dodawansko
+
+commit 2a50cdc0f78216de0a2dc03d0a7f26a767fea2b6
+Merge: 96302e5 f7fb959
+Author: Dogmean <46533971+Dogmean@users.noreply.github.com>
+Date:   Fri Jan 11 23:16:44 2019 +0100
+
+    Merge pull request #2 from Dogmean/mnozenie
+    
+    Mnozenie; approved
+
+commit f7fb95991e4a4110df6a1fc8efd98edf6c693aa5
+Merge: 1ba9bf2 96302e5
+Author: Dogmean <46533971+Dogmean@users.noreply.github.com>
+Date:   Fri Jan 11 23:16:32 2019 +0100
+
+    Merge branch 'master' into mnozenie
+
+commit 96302e5dbc5f42471b5e9863e705eeaedfe68fcb
+Merge: 7902a1d e2eab48
+Author: Dogmean <46533971+Dogmean@users.noreply.github.com>
+Date:   Fri Jan 11 23:15:49 2019 +0100
+
+    Merge pull request #3 from Dogmean/revert-1-odejmowanie
+    
+    Revert "dodawanko"; approved
+
+commit 7902a1d38fcc3f5632aec3f3cb003a168f5538f9
+Merge: fc0fa48 37a1bea
+Author: Paweł <pawel1998no@o2.pl>
+Date:   Fri Jan 11 23:15:33 2019 +0100
+
+    Merge pull request #4 from Dogmean/dzielenie
+    
+    Dzielenie
+
+commit e2eab48354398edb1bd3ce3e365cb02d1815e315
+Author: Paweł <pawel1998no@o2.pl>
+Date:   Fri Jan 11 23:14:47 2019 +0100
+
+    Revert "dodawanko"
+
+commit 37a1beaf96d661e64451b6594da94a2c16a0efb3
+Author: Dogmean <gustlik0015@gmail.com>
+Date:   Fri Jan 11 23:13:00 2019 +0100
+
+    renamed dzielenie_h to dzielenie.h; included dzielenie.h into main.cpp
+
+commit fc0fa4850894cffbbe05568fb0243610a048eb8e
+Merge: 3a7af30 e001fdb
+Author: Paweł <pawel1998no@o2.pl>
+Date:   Fri Jan 11 23:12:44 2019 +0100
+
+    Merge pull request #1 from Dogmean/odejmowanie
+    
+    dodawanko
+
+commit e001fdbde9c02265583c7a59e57ae46fe35e8b7c
+Merge: 05111c3 3a7af30
+Author: Paweł <pawel1998no@o2.pl>
+Date:   Fri Jan 11 23:12:35 2019 +0100
+
+    Merge branch 'master' into odejmowanie
+
+commit a98efe9fca3cf2050a142befff2ed44e8f907de2
+Merge: 6ddd237 840caaf
+Author: Dogmean <gustlik0015@gmail.com>
+Date:   Fri Jan 11 22:56:16 2019 +0100
+
+    Merge branch 'dzielenie' of https://github.com/Dogmean/git-majonez into dzielenie
+
+commit 6ddd237e75c3c4626836a931dcdc50bdd15bf32a
+Author: Dogmean <gustlik0015@gmail.com>
+Date:   Fri Jan 11 22:55:31 2019 +0100
+
+    created file with dividing function
+
+commit 1ba9bf200475df580fa51480a567dbee4ec680d7
+Author: ExiDK <exideek@gmail.com>
+Date:   Fri Jan 11 22:49:50 2019 +0100
+
+    Added int type to the function
+
+commit 2bba5a06445d8c04e23bea96713eb47bb925efc0
+Author: ExiDK <exideek@gmail.com>
+Date:   Fri Jan 11 22:46:48 2019 +0100
+
+    Added "mnozenie.h" file, included it in "main.cpp" file and removed function "mnozenie" from main.
+
+commit 3a7af30b5d0c98b3f93772c3f4b3dad301e82f9f
+Author: kamiljagodzinski <crixu6@gmail.com>
+Date:   Fri Jan 11 21:37:17 2019 +0000
+
+    wyrzucilem dodawanie z mastera
+
+commit 05111c38be64f7c14d1c6f09ac8ea6a3c68e4f42
+Author: n0wik <pawel1998no@o2.pl>
+Date:   Fri Jan 11 22:23:55 2019 +0100
+
+    dodawanko
+
+commit 840caaf633941d6f338e2b7b637195a52be3f9e5
+Author: Dogmean <gustlik0015@gmail.com>
+Date:   Fri Jan 11 22:20:53 2019 +0100
+
+    added divide function; !FOUND ERROR IN MNOZENIE FUNCTION!
+
+commit 2d510536b2d6d8c1a868eb277ce337fd107f8560
+Author: kamiljagodzinski <crixu6@gmail.com>
+Date:   Fri Jan 11 21:15:19 2019 +0000
+
+    dodalem dodawanie hehe
+
+commit 3dc6c03a27e84aa9d69cb752639c2b4e219eaa59
+Merge: a31548d a8e1e50
+Author: ExiDK <exideek@gmail.com>
+Date:   Fri Jan 11 22:02:17 2019 +0100
+
+    Merge branch 'mnozenie'
+    
+    Changing variable name from "wynik" to "result" in "mnozenie" function.
+
+commit a8e1e507a8a876b5cf8eabb0c661e106f09ec3fc
+Author: ExiDK <exideek@gmail.com>
+Date:   Fri Jan 11 22:00:17 2019 +0100
+
+    changed variable name from "wynik" to "result"
+
+commit a31548d5e0b32e269c69ba49c481922d78a3ed74
+Merge: bf404c3 71c188f
+Author: ExiDK <exideek@gmail.com>
+Date:   Fri Jan 11 21:53:42 2019 +0100
+
+    Merge branch 'master' of https://github.com/Dogmean/git-majonez
+
+commit bf404c37334a1ef17eb6da8bf802520582e8d8c1
+Author: ExiDK <exideek@gmail.com>
+Date:   Fri Jan 11 21:49:32 2019 +0100
+
+    Function "mnozenie" added
+
+commit 71c188f52f1e4da235ea945e98a562f36723a47f
+Author: n0wik <pawel1998no@o2.pl>
+Date:   Fri Jan 11 21:46:57 2019 +0100
+
+    switch_add
+
+commit b3089838eadd6d6e9506550a8faeab59b4d82877
+Merge: 1e28350 3ab6c5b
+Author: ExiDK <exideek@gmail.com>
+Date:   Fri Jan 11 21:38:38 2019 +0100
+
+    Merge branch 'master' of https://github.com/Dogmean/git-majonez
+
+commit 1e283503ef07498464448eedbca0bc739d18d3b1
+Author: ExiDK <exideek@gmail.com>
+Date:   Fri Jan 11 21:35:20 2019 +0100
+
+    Created basic main function for kalkulator.
+
+commit 3ab6c5b013b21aff03d9ee6626f49f5b0f8a237a
+Merge: 70b0503 46d53e4
+Author: Dogmean <gustlik0015@gmail.com>
+Date:   Fri Jan 11 21:26:06 2019 +0100
+
+    changed README.md; fixed conflict; added branch hmeszek
+
+commit 46d53e411c64b42d06d3aa61aded8dcf7247641a
+Author: ExiDK <exideek@gmail.com>
+Date:   Fri Jan 11 21:17:56 2019 +0100
+
+    Added kalkulator cpp project.
+
+commit 19cad4bd7fd40d79b8a621b19f825fac8cd64af5
+Merge: 024092a 5653d99
+Author: kamiljagodzinski <crixu6@gmail.com>
+Date:   Fri Jan 11 20:11:36 2019 +0000
+
+    konflikt
+
+commit 70b05032838621620943bb0a17d208dbf1488744
+Author: Dogmean <gustlik0015@gmail.com>
+Date:   Fri Jan 11 21:09:27 2019 +0100
+
+    conflicts are unavoidable
+
+commit 024092af4a07b1100d8171fc49e9b909436e1c7e
+Author: kamiljagodzinski <crixu6@gmail.com>
+Date:   Fri Jan 11 19:50:04 2019 +0000
+
+    tescik
+
+commit 5653d9914944a79a3613acbc13f43f2e2821dfa6
+Merge: c0e1afe 97a6520
+Author: ExiDK <exideek@gmail.com>
+Date:   Fri Jan 11 20:49:57 2019 +0100
+
+    Merge branch 'master' of https://github.com/Dogmean/git-majonez
+
+commit c0e1afe9d9e29d83e3228baaaa7e0752def7f15e
+Author: ExiDK <exideek@gmail.com>
+Date:   Fri Jan 11 20:43:11 2019 +0100
+
+    File "Daniel" added.
+    Added "test" to README
+
+commit 97a65207526f1b49d7da271d33f9ef35e00e7739
+Author: Paweł Nowicki <pawel1998no@o2.pl>
+Date:   Fri Jan 11 20:42:30 2019 +0100
+
+    test
+
+commit 73b27f0a58a367a8e3401f9cf6cb93452d832f53
+Author: Dogmean <gustlik0015@gmail.com>
+Date:   Thu Jan 10 17:09:32 2019 +0100
+
+    created cpp project
+
+commit 866431ae3d4e20a0a5ce448205bb392ddb5ff048
+Author: Dogmean <gustlik0015@gmail.com>
+Date:   Thu Jan 10 16:49:38 2019 +0100
+
+    first commit, created README.md
